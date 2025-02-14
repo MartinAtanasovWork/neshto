@@ -1,0 +1,19 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "a",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "a",
+  "license": "MIT"
+}
